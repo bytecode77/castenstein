@@ -27,7 +27,7 @@ Raycasting in this form doesn't have any particular use nowadays. It has been wi
 [![](https://bytecode77.com/cache/thumbs/?path=images/sites/garage/software/castenstein/005.jpg&height=100)](https://bytecode77.com/images/sites/garage/software/castenstein/005.jpg)
 [![](https://bytecode77.com/cache/thumbs/?path=images/sites/garage/software/castenstein/006.jpg&height=100)](https://bytecode77.com/images/sites/garage/software/castenstein/006.jpg)
 
-## Binaries
+## Downloads
 
 [![](https://bytecode77.com/images/shared/fileicons/zip.png) Castenstein 1.0.2 Binaries.zip](https://bytecode77.com/downloads/garage/software/Castenstein%201.0.2%20Binaries.zip)
 
