@@ -1,0 +1,152 @@
+[properties]
+width				24
+height				24
+sky					Media\Textures\Sky.png
+fogrange			20
+fogcolor			160 165 169
+ambient				.6
+spawn				12.5 15.5 0
+
+[textures.map]
+.					floor	Media\Textures\Grass.png
+o					floor	Media\Textures\Grass_Shadow.png
+g					floor	Media\Textures\Grass_Plate.png
+,					floor	Media\Textures\Tiles1.png
+-					floor	Media\Textures\StoneFloor.png
+|					floor	Media\Textures\Tiles2.png
+=					floor	Media\Textures\Tiles2_Shadow.png
+X					wall	Media\Textures\Stones.png
+x					wall	Media\Textures\Stones_Logo1.png
+e					wall	Media\Textures\Stones_Logo2.png
+Y					wall	Media\Textures\Stones_Moss.png
+d					wall	Media\Textures\Door.png
+w					wall	Media\Textures\Bricks1.png
+W					wall	Media\Textures\Bricks2.png
+T					wall	Media\Textures\Wood.png
+B					wall	Media\Textures\Wood_Logo.png
+c					wall	Media\Textures\Ceiling1.png
+C					wall	Media\Textures\Ceiling2.png
+
+[textures.sprites]
+barrel				static	Media\Sprites\Barrel.png
+skeleton1			static	Media\Sprites\Skeleton1.png
+skeleton2			static	Media\Sprites\Skeleton2.png
+table				static	Media\Sprites\Table.png
+light				static	Media\Sprites\Light.png
+pillar				static	Media\Sprites\Pillar.png
+drum				static	Media\Sprites\Drum.png
+plant1				static	Media\Sprites\Plant1.png
+plant2				static	Media\Sprites\Plant2.png
+grail				static	Media\Sprites\Grail.png
+soldier				anim	Media\Sprites\Soldier.png
+guard				anim	Media\Sprites\Guard.png
+
+[map]
+XXXXxXXXxXXXxXXXxXXXxXXX
+Xo....................oX
+X......................X
+x......................X
+X.....YYYYY....WowoW...x
+X.....Y---Y....o...o...X
+X.....Y---Y....w.g.w...X
+x.....Y---Y....o...o...X
+X.....YY.YY....WowoW...x
+X......o.o.............X
+X......................X
+x......................x
+X....o.................X
+X...o.o................X
+X....o.................X
+x......................x
+XTTTTTTTT...........==.X
+X..T,,,,T..........o==.X
+X...,,B,To..........||.X
+x..T,,,,T...........||.x
+X..TTTTTT..............X
+e.......o..............d
+Xo......o.........o....X
+XXXXxXXXxXXXxXXXxXXXxXXX
+
+[ceiling]
+                        
+                        
+                        
+                        
+      YYYYY    W w W    
+      YcccY             
+      YcccY    w   w    
+      YcccY             
+      YYcYY    W w W    
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+ TTTTTTTT               
+   TCCCCT               
+   CCCCCT          ccccc
+   TCCCCT          ccccc
+   TTTTTT          ccccc
+                   ccccd
+                   ccccc
+                   ccccc
+
+[sprites]
+7.5		5.5		drum
+7.9		5.8		drum
+7.4		6.2		drum
+9.7		7.6		barrel
+20.3	22.7	barrel
+20		22.1	barrel
+19.3	21.8	barrel
+18.5	22.5	barrel
+9.6		5.4		skeleton1
+7.3		7.6		skeleton2
+20.5	16.5	table
+20.5	17.5	table
+20.5	18.5	table
+20.5	19.5	table
+21.5	16.5	table
+21.5	17.5	table
+21.5	18.5	table
+21.5	19.5	table
+21		19.5	light
+21		21.5	light
+22.5	18.5	pillar
+22.5	18.5	pillar
+22.5	20.5	pillar
+19.5	18.5	pillar
+19.5	20.5	pillar
+19.5	22.5	pillar
+1.5		1.5		plant1
+1.5		22.5	plant1
+22.5	1.5		plant1
+22.5	22.5	plant1
+7.5		17.5	plant2
+7.5		19.5	plant2
+4.5		17.5	plant2
+4.5		19.5	plant2
+5.5		12.5	plant1
+4.5		13.5	plant1
+5.5		14.5	plant1
+6.5		13.5	plant1
+9.5		18.5	plant1
+17.5	6.5		grail
+7.5		9.5		soldier		0
+9.5		9.5		soldier		0
+16.5	8.5		soldier		0
+18.5	8.5		soldier		0
+16.5	4.5		soldier		180
+18.5	4.5		soldier		180
+15.5	5.5		soldier		-90
+15.5	7.5		soldier		-90
+19.5	5.5		soldier		90
+19.5	7.5		soldier		90
+8.5		21.5	guard		90
+8.5		22.5	guard		90
+2.5		17.5	guard		-90
+2.5		19.5	guard		-90
+19.5	17.5	guard		-90
+19.5	19.5	guard		-90
