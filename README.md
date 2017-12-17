@@ -38,12 +38,12 @@ widely replaced with polygonal renderers, later on implemented by hardware
 
 ## Screenshots
 
-[![](https://bytecode77.com/cache/thumbs/?path=images/sites/garage/software/castenstein/001.jpg&height=100)](https://bytecode77.com/images/sites/garage/software/castenstein/001.jpg)
-[![](https://bytecode77.com/cache/thumbs/?path=images/sites/garage/software/castenstein/002.jpg&height=100)](https://bytecode77.com/images/sites/garage/software/castenstein/002.jpg)
-[![](https://bytecode77.com/cache/thumbs/?path=images/sites/garage/software/castenstein/003.jpg&height=100)](https://bytecode77.com/images/sites/garage/software/castenstein/003.jpg)
-[![](https://bytecode77.com/cache/thumbs/?path=images/sites/garage/software/castenstein/004.jpg&height=100)](https://bytecode77.com/images/sites/garage/software/castenstein/004.jpg)
-[![](https://bytecode77.com/cache/thumbs/?path=images/sites/garage/software/castenstein/005.jpg&height=100)](https://bytecode77.com/images/sites/garage/software/castenstein/005.jpg)
-[![](https://bytecode77.com/cache/thumbs/?path=images/sites/garage/software/castenstein/006.jpg&height=100)](https://bytecode77.com/images/sites/garage/software/castenstein/006.jpg)
+[![](https://bytecode77.com/cache/thumbs/?path=images/sites/garage/software/castenstein/001.jpg&height=200)](https://bytecode77.com/images/sites/garage/software/castenstein/001.jpg)
+[![](https://bytecode77.com/cache/thumbs/?path=images/sites/garage/software/castenstein/002.jpg&height=200)](https://bytecode77.com/images/sites/garage/software/castenstein/002.jpg)
+[![](https://bytecode77.com/cache/thumbs/?path=images/sites/garage/software/castenstein/003.jpg&height=200)](https://bytecode77.com/images/sites/garage/software/castenstein/003.jpg)
+[![](https://bytecode77.com/cache/thumbs/?path=images/sites/garage/software/castenstein/004.jpg&height=200)](https://bytecode77.com/images/sites/garage/software/castenstein/004.jpg)
+[![](https://bytecode77.com/cache/thumbs/?path=images/sites/garage/software/castenstein/005.jpg&height=200)](https://bytecode77.com/images/sites/garage/software/castenstein/005.jpg)
+[![](https://bytecode77.com/cache/thumbs/?path=images/sites/garage/software/castenstein/006.jpg&height=200)](https://bytecode77.com/images/sites/garage/software/castenstein/006.jpg)
 
 ## Downloads
 
