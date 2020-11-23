@@ -1,54 +1,38 @@
 # Castenstein
 
-Castenstein is a raycaster. The name derives from Wolfenstein 3D, a popular game
-from the 90's. Raycasting is a rendering technique, which was popular back in
-that time, because computers weren't powerful enough to handle polygonal
-software rendering. Instead of rendering triangles, a raycaster renders a grid
-of blocks which are on a 2D basis, displayed in 3D. That's why raycasters are
-often called 2.5D engines - they look pretty much 3D, but are very much two
-dimensional in terms of math. Raycasters are considerably faster than polygonal
-software renderers due to the computational simplicity. In exchange, raycasting
-has its limitations. For example, you can't really tilt up and down. If you can,
-it's just vertical shifting of the screen, which results in a skewed image -
-i.e. if you tilted down at an angle of 90°, the image would be infinitely
-skewed.
+## Raycaster
 
-You can, however, do *some* moving up/down and tilting up/down as well as
-rendering sprites additionally to walls. Different brightness and fog levels are
-pre-calculated resulting in very high performance with little compromise on
-graphics. Castenstein also takes benefits from multi-core CPU's, supporting
-multi-threaded rendering, since raycasting is a task that can be very easily
-parallelized.
+Castenstein is a raycaster. The name derives from Wolfenstein 3D, a game from the 90's. Raycasting is a commonly used rendering technique, in a time where computers weren't powerful enough to handle polygonal software rendering. Instead of rendering triangles, a raycaster renders a grid of blocks on a 2D basis, displayed in 3D. That's why raycasters are often referred to as "2.5D engines" - they look 3D, but they're very much two dimensional in terms of math.
 
-Raycasting in this form doesn't have any particular use nowadays. It has been
-widely replaced with polygonal renderers, later on implemented by hardware
-(Direct3D and OpenGL).
+[![](https://bytecode77.com/images/pages/castenstein/001.thumb.jpg)](https://bytecode77.com/images/pages/castenstein/001.jpg)
+[![](https://bytecode77.com/images/pages/castenstein/002.thumb.jpg)](https://bytecode77.com/images/pages/castenstein/002.jpg)
+[![](https://bytecode77.com/images/pages/castenstein/003.thumb.jpg)](https://bytecode77.com/images/pages/castenstein/003.jpg)
+[![](https://bytecode77.com/images/pages/castenstein/004.thumb.jpg)](https://bytecode77.com/images/pages/castenstein/004.jpg)
+[![](https://bytecode77.com/images/pages/castenstein/005.thumb.jpg)](https://bytecode77.com/images/pages/castenstein/005.jpg)
+[![](https://bytecode77.com/images/pages/castenstein/006.thumb.jpg)](https://bytecode77.com/images/pages/castenstein/006.jpg)
+
+Raycasters are considerably faster than polygonal software rasterizers due to the computational simplicity. In exchange, raycasting has limitations. For example, tilting up and down is not possible. It's actually implemented by vertical shifting of the screen, which results in a skewed image.
+
+It's possible, however, to do some moving up/down and tilting as well as rendering sprites in addition to walls. For different brightness and fog levels, pre-calculated texture images are used, resulting in negligible performance impact. Castenstein also supports multi-threaded rendering, because raycasting is a task that can be very easily parallelized.
+
+Raycasting in this form doesn't have any particular use nowadays. It has gone obsolete with polygonal renderers becoming the default. This is a tech-demo.
 
 ## Features
 
-* Textured walls, floors and ceilings
-* Sprites
-* Sky
-* Lighting & Fog
-* Drop-down shadows from ceilings
-* Collisions
-* Moving up/down & tilting up/down
-* Minimap overlay
-* Multi-threaded rendering
-
-## Screenshots
-
-[![](https://bytecode77.com/cache/thumbs/?path=images/sites/garage/software/castenstein/001.jpg&height=200)](https://bytecode77.com/images/sites/garage/software/castenstein/001.jpg)
-[![](https://bytecode77.com/cache/thumbs/?path=images/sites/garage/software/castenstein/002.jpg&height=200)](https://bytecode77.com/images/sites/garage/software/castenstein/002.jpg)
-[![](https://bytecode77.com/cache/thumbs/?path=images/sites/garage/software/castenstein/003.jpg&height=200)](https://bytecode77.com/images/sites/garage/software/castenstein/003.jpg)
-[![](https://bytecode77.com/cache/thumbs/?path=images/sites/garage/software/castenstein/004.jpg&height=200)](https://bytecode77.com/images/sites/garage/software/castenstein/004.jpg)
-[![](https://bytecode77.com/cache/thumbs/?path=images/sites/garage/software/castenstein/005.jpg&height=200)](https://bytecode77.com/images/sites/garage/software/castenstein/005.jpg)
-[![](https://bytecode77.com/cache/thumbs/?path=images/sites/garage/software/castenstein/006.jpg&height=200)](https://bytecode77.com/images/sites/garage/software/castenstein/006.jpg)
+- Textured walls, floors and ceilings
+- Sprites
+- Sky
+- Lighting & Fog
+- Drop-down shadows from ceilings
+- Collision detection
+- Moving up/down & tilting up/down
+- Minimap overlay
+- Multi-threaded rendering
 
 ## Downloads
 
-[![](https://bytecode77.com/images/shared/fileicons/zip.png) Castenstein 1.0.2 Binaries.zip](https://bytecode77.com/downloads/garage/software/Castenstein%201.0.2%20Binaries.zip)
+[![](http://bytecode77.com/public/fileicons/zip.png) Castenstein 1.0.2.zip](https://bytecode77.com/downloads/Castenstein%201.0.2.zip)
 
 ## Project Page
 
-[![](https://bytecode77.com/images/shared/favicon16.png) bytecode77.com/garage/software/castenstein](https://bytecode77.com/garage/software/castenstein)
+[![](https://bytecode77.com/public/favicon16.png) bytecode77.com/castenstein](https://bytecode77.com/castenstein)
