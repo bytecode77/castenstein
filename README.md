@@ -31,7 +31,7 @@ Raycasting in this form doesn't have any particular use nowadays. It has gone ob
 
 ## Downloads
 
-[![](http://bytecode77.com/public/fileicons/zip.png) Castenstein 1.0.2.zip](https://bytecode77.com/downloads/Castenstein%201.0.2.zip)
+[![](http://bytecode77.com/public/fileicons/zip.png) Castenstein 1.0.3.zip](https://bytecode77.com/downloads/Castenstein%201.0.3.zip)
 
 ## Project Page
 

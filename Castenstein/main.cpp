@@ -30,7 +30,6 @@ int main(int argc, char *argv[])
 	Engine::setMap(map);
 	Engine::setPlayer(player);
 	Input::setMousePosition(Engine::getWidth() / 2, Engine::getHeight() / 2, false);
-	Input::Clear();
 
 	while (!Input::getQuit() && !Input::getKeyDown(SDLK_ESCAPE))
 	{
